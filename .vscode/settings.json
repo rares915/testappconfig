@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\published",
+    "appService.defaultWebAppToDeploy": "/subscriptions/405d03ce-0aa9-40fb-a27f-d0c6792274de/resourceGroups/adm-rco-tst/providers/Microsoft.Web/sites/tst-testappconfig"
+}
